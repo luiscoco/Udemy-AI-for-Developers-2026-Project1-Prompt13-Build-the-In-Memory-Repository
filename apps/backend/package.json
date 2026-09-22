@@ -1,0 +1,16 @@
+{
+  "name": "@equipment-hub/backend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@equipment-hub/contract": "*"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.7"
+  }
+}
