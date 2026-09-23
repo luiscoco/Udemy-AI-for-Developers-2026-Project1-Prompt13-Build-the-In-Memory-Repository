@@ -1,4 +1,4 @@
-# Prompt 13 Build the In-Memory Repository
+# Build the In-Memory Repository
 
 This README walks through the steps that were followed to satisfy Prompt 13: creating an in-memory data repository for the backend.
 
